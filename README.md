@@ -12,3 +12,4 @@ I'm Subhamoy Bera currently studying Information Technology  from Netaji Subhash
   <a href="https://twitter.com/subha__007"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:subhab693@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SubhamoyBera&show_icons=true&locale=en" alt="Subhamoy Bera" /></p>
