@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Subha </a>!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhamoyBera" alt="Subhamoy Bera" /> </p>
 <div align="center">
 
 I'm Subhamoy Bera currently studying Information Technology  from Netaji Subhash Engineering College, Kolkata. I'm Competitive Programmer & Web Developer and an Open Source Contributer. I love to explore and learn about new domains.
